@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Disposition",
+          "operation": "remove"
+        }
+      ]
+    },
+    "condition": {
+      "urlFilter": "webclass.gks.saitama-u.ac.jp",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  }
+]
