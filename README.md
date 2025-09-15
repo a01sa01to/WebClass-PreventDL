@@ -17,4 +17,10 @@ WebClassを使う際、 `（科目）→「マイレポート」→（ファイ�
 詳しくは [Content-Disposition - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Content-Disposition) をご確認ください。
 
 ## ライセンス
+
 MIT License
+
+## ダウンロード
+
+- Chrome Web Store: <https://chromewebstore.google.com/detail/show-my-report-without-do/jnfpcbofkkehicfggjmhgaabheodhhpe>
+- Mozilla Add-ons: <https://addons.mozilla.org/ja/firefox/addon/a01sa01to-su-preventdl/>
